@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="../../site.css" />
+<head>
+  <title> J1002 Journal </title>
+<meta charset="UTF-8">
+</head>
+<header>
+  <h4 style="font-family:verdana;">
+  Name : Judy Wang<br>
+Journal : J1002<br>
+  Date : 22-Aug-22<br>
+  </h4>
+  <br><br>
+      <h1 style="font-family:verdana;">
+	<B>J1002 Journal</B></h1>
+      <a href="https://www.codermerlin.com/users/judy-wang/Digital%20Portfolio/index.html"><h2>Advanced Computer Science I</h2></a>
+<hr><br>
+</header>
+
+    <h3>
+I received assistance from : I did not receive assistance.<br>
+
+I assisted : Christopher Wang
+<br><br><br><br>
+<b>1.1</b>
+One of the other services I use is network printing. The printer is connected to the wifi which makes printing convenient.
+Another of the ther services I use is Safari.<br><br><br>
+
+<b>2.1</b>
+I think that the ability to create the directory of the same name is important because there are it would make it very difficult for other people to be able to name their directories.<br><br><br>
+
+<b>3.1</b>
+I think that reason that the home directory has special symbol is to make it more noticable that you are in the home directory.<br><br><br>
+
+<b>4.1</b>
+The prompt changed to "judy-wang@codermerlin.com:~/Merlin$, it is useful because you can easily know what directory you're in.<br><br><br>
+
+<b>5.1</b>
+Each time I press the up arrow key it pulls up the previous commands I typed.
+
+<b>5.2</b>
+Each time I press the down arrow key it starts to pull up the very last command that I typed.<br><br><br>
+
+<b>6.1</b>
+"Hello World!" did not print on the screen like before. I think when I open the file it will echo "Hello World!".<br><br><br>
+
+<b>7.1</b>
+The ls command prints the contents of the current directory and the tree command shows the overview of the directory hierarchy.<br><br><br>
+
+<b>8.1</b>
+I think that it specifies that it suspends the execution for requested amount of time.
+
+<b>8.2</b>
+I think that usually when put any electronic device to sleep it does the similar thing.<br><br><br>
+
+<b>9.1</b>
+The behavior wasn't really different from what I expected.
+
+<b>9.2</b>
+You run commands but, you can run those commands without having to wait. So you can run multiple commands.
+
+<b>9.3</b>
+It seems like the numbers in the brackets specifies how many jobs you've done in the background.<br><br><br>
+
+<b>10.1</b>
+I think it shows you what jobs you have run.
+
+<b>10.2</b>
+It shows what jobs that I ran in the background.<br><br>
+<hr>
+<b>What did I learn? What was the "big idea"?</b>
+I think that the big idea was mostly just showing what and how the command function.<br>
+
+<b>What challeges did I encounter?</b>
+I had some trouble on the vocabulry because there was new words that got introduced which kinda made it hard for me to understand what it's saying.<br>
+
+<b>How could this experience be improved?</b>
+I think it would be great if they split up some of the stuff on the experience into more parts.<br>
+
+<b>Free Reflection : How has what I've learned affected my thinking?</b>
+ I feel like it will be useful for me to know the stuff that I learned for coding and for every day life.
+</h3>
+</body>
+</html>

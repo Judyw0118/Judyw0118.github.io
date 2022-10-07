@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="../../site.css" />
+<head>
+  <title>About Me</title>
+<meta charset="UTF-8">
+</head>
+<header>
+  <br><br>
+      <h1 style="font-family:verdana;">
+	<B>About Me</B></h1>
+      <a href="https://www.codermerlin.com/users/judy-wang/Digital%20Portfolio/index.html"><h2>Advanced Computer Science I</h2></a>
+      <hr><br>
+      Hi I'm Judy! I recently moved here from South Korea.<br><br><br>

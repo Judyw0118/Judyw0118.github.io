@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="site.css" />
+    <title>Judy's Digital Portfolio</title>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+      <h1>Judy's Digital Portfolio</h1>
+      <hr>
+      <a href="CS-I/Aboutme.html"><h1>About Me</h1></a><br>
+      <a href="CS-I/Why.html"><h1>Why Digitnal Portfolio Is Important To Me</h1></a>
+      <h1>
+    <h1>Journals</h1>
+    <h4 style="font-family:verdana;">
+      <ul>
+      <li><a href="CS-I/Journals/J1002.html">Journal J1002</a></li>
+      
+      <li><a href="CS-I/Journals/J1006.html">Journal J1006</a></li>
+
+      <li><a href="CS-I/Journals/J1012.html">Journal J1012</a></li>
+
+      <li><a href="CS-I/Journals/J1013.html">Journal J1013</a></li>
+      </ul>
+    </h4>
+    <hr>
+    ....
+  </body>
+  </html>

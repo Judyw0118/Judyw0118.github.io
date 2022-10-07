@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="../../site.css" />
+    <title>J1013 Journal</title>
+    <meta charset="utf-8">
+  <header>
+    <h4 style="font-family:verdana;">
+   Name : Judy Wang <br>
+  Journal : J1012<br>
+   Date : 14-Sept-22<br>
+   </h4>
+  <br><br>
+      <h1 style="font-family:verdana;">
+      <B>J1013 Journal</B></h1>
+      <a href="https://www.codermerlin.com/users/judy-wang/Digital%20Portfolio/index.html"><h2>Advanced Computer Science I</h2></a>
+      <hr>
+      <br>
+      </header>
+      
+      <h3>
+I received assistance from : I did not receive assistance.<br><br>
+
+I assisted : I did not assist anyone.
+<br><br><br>
+
+<b>1.1</b><br>
+That symbol says the output is true if either of the inputs are true but both are not true.<br><br><br>
+
+
+<b>2.1</b><br>
+Multiply by 2 everytime, when 1 more input is added. Each of the rows represents 2 digits for the 2 inputs.<br><br>
+</h3>
+      <hr>
+      <h3>
+<b>What did I learn? What is the "big idea"?</b><br>
+ I learned how to do boolean algebra.<br><br><br>
+
+<b>What challenges did I encounter?</b><br>
+I trouble remembering secondary operations.<br><br><br>
+
+<b>How could this experience be improved?</b><br>
+Maybe adding more descriptions or explanations to make it more easier to understand.<br><br><br>
+
+<b>Free Reflection: How has what I've learned affected my thinking?</b><br>
+I thought that there are many ways to express boolean algebra.
+</h3>
+</body>
+</html>

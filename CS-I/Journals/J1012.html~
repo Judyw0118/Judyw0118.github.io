@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1012 Journal</title>
+    <meta charset="utf-8">
+  </head>
+  <header>
+    <h4 style="font-family:verdana;">
+  <p> Name : Judy Wang <br>
+  Journal : J1012<br>
+  Date : 12-Sept-22<br></p>
+  <br><br>
+  <body style="background-color:powderblue;">
+    <center>
+      <h1 style="font-family:verdana;">
+      <B>J1012 Journal</B></h1>
+      <a href="https://www.codermerlin.com/users/judy-wang/Digital%20Portfolio/index.html"><h2>Advanced Computer Science I</h2></a>
+      <hr>
+      <br>
+      </header>
+      
+  <body>
+    <center>
+      <h3>
+<p>I received assistance from : I did not receive assistance.</p>
+
+<p>I assisted : I did not assist anyone.</p>
+<br><br>
+<h3>
+<p><b>1.1</b></p>
+<p>The order of the operands doesn't matter and when adding more than 2 operands, the order of the addition doesn't matter.</p><br>
+
+
+<p><b>2.1</b></p>
+<p>When doing addition for octal numbers, just add as you would usually do, but if you add it and it is bigger than 7 then it carries.</p><br>
+
+
+<p><b>3.1</b></p>
+<p>When doing addition for hexadecimal numbers, just add as you would usually do, but after the number 9 it will be A, B, C, D, E, and F and if it to be bigger than F then it carries.</p><br>
+
+
+<p><b>4.1</b></p>
+<p>When doing addition for binary numbers, there is only 0 and 1, so when you add and it is bigger than 1 then it carries.</p><br><br>
+
+<hr>
+<p><b>What did I learn? What is the "big idea"?</b></p>
+ <p> I learned how to add other bases together.
+</p><br>
+
+<p><b>What challenges did I encounter?</b></p>
+<p>It was confusing memorizing the different base systems.</p><br>
+
+<p><b>How could this experience be improved?</b></p>
+<p>I don't think there is anything to improve.</p><br>
+
+<p><b>Free Reflection: How has what I've learned affected my thinking?</b></p>
+<p>I learned how to convert numbers into different bases.</p>
+</body>
+</html>
